@@ -2,3 +2,9 @@
   It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ## Linux CLI, and HTTP
+![task_linux_cli](https://github.com/webdevtoday/kottans-frontend/blob/master/task_linux_cli/screenshot-linuxsurvival.com-2020.09.06-20_24_16.png)
+  I took a closer look at Linux command line basics. And although I use Windows, I will definitely switch to Linux in the near future.
+
+  I really liked working with the command line and I was surprised how easy it is to interact with the file system and the computer as a whole.
+
+  I also read articles about HTTP, but since I had previously studied the development of server applications, I was already familiar with this protocol.
