@@ -8,3 +8,9 @@
   I really liked working with the command line and I was surprised how easy it is to interact with the file system and the computer as a whole.
 
   I also read articles about HTTP, but since I had previously studied the development of server applications, I was already familiar with this protocol.
+
+## Git Collaboration
+![task_git_collaboration](https://github.com/webdevtoday/kottans-frontend/blob/master/task_git_collaboration/screenshot-classroom.udacity.com-2020.10.14-21_16_13.png)
+  This part was definitely difficult for me. Still, I understood the basic principle of interaction through the github. I liked the rebase command, but here it is the most incomprehensible to me.
+
+  In conclusion, I can say that it was very interesting, and I will definitely use and develop my skills in working with git and github.
