@@ -14,3 +14,7 @@
   This part was definitely difficult for me. Still, I understood the basic principle of interaction through the github. I liked the rebase command, but here it is the most incomprehensible to me.
 
   In conclusion, I can say that it was very interesting, and I will definitely use and develop my skills in working with git and github.
+
+## Intro to HTML and CSS
+![task_html_css_intro](https://github.com/webdevtoday/kottans-frontend/blob/master/task_html_css_intro/screenshot-classroom.udacity.com-2020.10.14-21_16_13.png)
+  I already knew HTML and CSS before, so most of the things didn't surprise me, except that the Udacity course seemed incredibly boring :) But I still stumbled upon one novelty, this is the basics of the grid on codecademy, I really look forward to full support for this cool technology by all browsers!
