@@ -24,3 +24,8 @@
 ![task_responsive_web_design](https://github.com/webdevtoday/kottans-frontend/blob/master/task_responsive_web_design/screenshot-classroom.udacity.com-2020.10.26-22_10_00.png)
 ![task_responsive_web_design](https://github.com/webdevtoday/kottans-frontend/blob/master/task_responsive_web_design/screenshot-flexboxfroggy.com-2020.10.26-22_10_35.png)
   There were a lot of interesting things about responsive website design. It was especially interesting to know that there is a difference between device pixels and CSS pixels. But I especially found the advice on button and link sizes for mobile devices helpful. As well as text size, font and line height.
+
+## JS Basics
+![task_js_basics](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_basics/screenshot-classroom.udacity.com-2020.11.11-07_34_45.png)
+![task_js_basics](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_basics/screenshot-www.freecodecamp.org-2020.11.11-07_35_45.png)
+  I've done!!! It took a long time. I discovered an interesting resource, freeCodeCump. There I was especially interested in studying the ES6 standard with its new features. Now, finally, I'm moving on to the next task!
