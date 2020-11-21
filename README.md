@@ -29,3 +29,12 @@
 ![task_js_basics](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_basics/screenshot-classroom.udacity.com-2020.11.11-07_34_45.png)
 ![task_js_basics](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_basics/screenshot-www.freecodecamp.org-2020.11.11-07_35_45.png)
   I've done!!! It took a long time. I discovered an interesting resource, freeCodeCump. There I was especially interested in studying the ES6 standard with its new features. Now, finally, I'm moving on to the next task!
+
+## DOM
+![task_js_basics](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_dom/screenshot-classroom.udacity.com-2020.11.21-11_22_52.png)
+![task_js_basics](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_dom/screenshot-www.freecodecamp.org-2020.11.21-11_24_17.png)
+  At this point, I noticed that Udacity with Richard is always very interesting and educational. He gave very interesting material about the methods of manipulating the page, as well as the mechanics of the browser of processing pages in general. It was especially interesting to learn about methods to optimize the DOM intervention process.
+
+  I did the tasks on freeCodeCamp in the previous task, so all my impressions about it are there.
+
+  I really liked the practical part of the task. I got carried away with the implementation of the technical part, but I wasn't at all interested in the appearance of the page. So in the end I was already in a hurry to finish the rest of the site. But I definitely want to dig a little more precisely in the technical implementation of my site)
