@@ -38,3 +38,13 @@
   I did the tasks on freeCodeCamp in the previous task, so all my impressions about it are there.
 
   I really liked the practical part of the task. I got carried away with the implementation of the technical part, but I wasn't at all interested in the appearance of the page. So in the end I was already in a hurry to finish the rest of the site. But I definitely want to dig a little more precisely in the technical implementation of my site)
+
+## Object Oriented JS
+![task_js_oop](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_oop/screenshot-classroom.udacity.com-2020.12.09-14_00_09.png)
+![task_js_oop](https://github.com/webdevtoday/kottans-frontend/blob/master/task_js_oop/screenshot-www.codewars.com-2020.12.09-14_02_06.png)
+
+  [Demo](https://webdevtoday.github.io/frogger-game/index.html) | Demo of the game
+
+  There are a lot of interesting things about prototypes and scopes in this part of the course. I also found out that not only Richard can be very interesting on Udacity))
+
+  But most of all I was improved by the work on the practical task Frogger Game and the very useful comments and tips from Oleksey Rudenko. Going through this task, I realized that you do not need to skimp on variables, and also touched a little on the topic of thinking through the program in advance, making each of its parts as extensible as possible.
