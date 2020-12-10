@@ -45,6 +45,8 @@
 
   [Demo](https://webdevtoday.github.io/frogger-game/index.html) | Demo of the game
 
+  [Codewars Profile](https://www.codewars.com/users/AndryWDT) | My profile on Codewars
+
   There are a lot of interesting things about prototypes and scopes in this part of the course. I also found out that not only Richard can be very interesting on Udacity))
 
   But most of all I was improved by the work on the practical task Frogger Game and the very useful comments and tips from Oleksey Rudenko. Going through this task, I realized that you do not need to skimp on variables, and also touched a little on the topic of thinking through the program in advance, making each of its parts as extensible as possible.
